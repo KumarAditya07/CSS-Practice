@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+    padding:0px;
+    color:white;
+}
+#content{
+    
+    height: 60px;
+    background-color:#0f1111;
+ 
+    
+}
+#outer{
+    display:flex;
+    justify-content:space-evenly;
+}
+#content ul{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
+.logo{
+    color:#f08804;
+    font-size:25px;
+}
+button{
+    background-color:#f08804;
+}
+
+#outer-div{
+    height:200px;
+    width:200px;
+    background-color:yellow;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+#inner-div{
+    height:100px;
+    width:100px;
+    background-color:red;
+}
+
+

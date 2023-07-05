@@ -1,0 +1,11 @@
+#one{
+    height:100px;
+    width:100px;
+    background-color:green;
+    border-radius:50%;
+    
+}
+#two{
+  text-align:center;
+  padding-top: 40px;
+}

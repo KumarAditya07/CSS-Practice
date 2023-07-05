@@ -1,0 +1,13 @@
+#test{
+    height:150px;
+    width:150px;
+     background-image : url("image.jpg");
+    background-size:cover;
+    border-radius:50%;
+    position:fixed;
+    right:0;    
+    
+    
+    
+    
+}
